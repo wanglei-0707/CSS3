@@ -3,6 +3,6 @@
  
  [demo](https://wanglei-0707.github.io/CSS3)
  
-1. [多种loading效果]( https://wanglei-0707.github.io/CSS3/loadings/loading.html)
+1. [多种loading效果]( https://wanglei-0707.github.io/CSS3/loadings/index.html)
 
     参考资料[http://www.igooda.cn/jzjl/201601211051.html](http://www.igooda.cn/jzjl/201601211051.html)
