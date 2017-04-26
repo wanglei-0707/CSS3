@@ -9,3 +9,5 @@
 [margin collapse]( https://wanglei-0707.github.io/CSS3/margincollapse/index.html)
 
 [各种情况下的居中](https://wanglei-0707.github.io/CSS3/center/index.html)
+
+[CSS3画小黄人](https://wanglei-0707.github.io/CSS3/minions/index.html)
